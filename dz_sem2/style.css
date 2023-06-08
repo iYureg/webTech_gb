@@ -32,6 +32,11 @@
   background-color: aliceblue;
 }
 
+h3 {
+  font: bold 100% "Comic Sans MS";
+  color: grey;
+  margin-bottom: 10px;
+}
 .img {
   width: 400px;
 }
