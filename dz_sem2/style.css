@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+}
+.header {
+  height: 100px;
+  background-color: rgba(127, 255, 212, 0.651);
+  display: flex;
+}
+.menu {
+  margin: auto;
+}
+.menu-link:hover {
+  color: rgba(1, 61, 41, 0.651);
+}
+.menu-link {
+  color: rgba(0, 26, 17, 0.651);
+  text-decoration: none;
+  padding-top: 40px;
+  font: bold 20px "Comic Sans MS";
+}
+.head-img {
+  margin-top: 17px;
+  margin-left: 40px;
+  width: 100px;
+  height: 60px;
+}
+
+.content {
+  margin: auto;
+  display: flex;
+  padding: 50px;
+  background-color: aliceblue;
+}
+
+.img {
+  width: 400px;
+}
+
+img {
+  width: 200px;
+  height: 150px;
+  float: left;
+  padding-right: 30px;
+  padding-bottom: 20px;
+}
+
+.text,
+.list {
+  color: grey;
+  font: 10px "Comic Sans MS";
+}
+
+.footer {
+  text-align: center;
+  background-color: rgba(127, 255, 212, 0.39);
+  height: 300px;
+}
+.desc {
+  color: rgb(179, 174, 174);
+  font: 10px italic;
+}
+
+.email {
+  color: grey;
+  text-decoration: none;
+}
